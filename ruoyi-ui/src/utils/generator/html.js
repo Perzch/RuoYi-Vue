@@ -284,7 +284,7 @@ function attrBuilder(el) {
   }
 }
 
-// el-buttin 子级
+// el-button 子级
 function buildElButtonChild(conf) {
   const children = []
   if (conf.default) {
